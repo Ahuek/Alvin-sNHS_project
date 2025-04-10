@@ -1,0 +1,52 @@
+body{
+ background-color: aqua;   
+}
+.psychologist-img img {
+    width: 500px;
+    border-radius: 20px;
+    height: 400px;
+}
+.who-are-they{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 10px 5px;
+}
+.what-they-do{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 10px 5px; 
+}
+.qualities{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 10px 5px;  
+}
+.qualifications{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 10px 5px;
+}
+.-duties{
+    border-radius: 20px;
+}
+.discover-button{
+    height: 25px;
+    width: 100px;
+    background-color: yellow;
+    
+}
+.fact-system{
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 10px 5px; 
+}
+.fact_container{
+    background-color: rgb(255, 127, 251);
+    height: 50px;
+    font-size: large;
+}
+.examples{
+    border-style: solid;
+    
+    border-width: 10px 5px; 
+}
